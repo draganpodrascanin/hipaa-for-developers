@@ -183,9 +183,9 @@ Developing HIPAA-compliant software comes with its set of challenges and pitfall
 
 ### Case Studies of HIPAA Compliance Failures and Lessons Learned
 
-- **Case Study 1: The Hospital That Didn't Encrypt:** A hospital lost an unencrypted laptop containing thousands of patients' PHI. **Lesson Learned:** Encrypt all devices that store PHI to prevent data breaches.
+- **Case Study 1: ---PLACEHOLDER--- The Hospital That Didn't Encrypt:** A hospital lost an unencrypted laptop containing thousands of patients' PHI. **Lesson Learned:** Encrypt all devices that store PHI to prevent data breaches.
 
-- **Case Study 2: The Forgotten Database:** A healthcare provider left a database without a password, exposing patient records. **Lesson Learned:** Regular audits and security checks are critical to identifying and fixing vulnerabilities.
+- **Case Study 2: ---PLACEHOLDER--- The Forgotten Database:** A healthcare provider left a database without a password, exposing patient records. **Lesson Learned:** Regular audits and security checks are critical to identifying and fixing vulnerabilities.
 
 ## Tools and Resources for HIPAA-Compliant Development
 
